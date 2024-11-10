@@ -1,0 +1,3 @@
+import AppTemplate
+
+TemplateApp.main()
